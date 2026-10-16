@@ -1,0 +1,6 @@
+{
+  "name": "Ardabil: City of Safavids & Sabalan",
+  "description": "High-resolution photography, historical landmarks, and scenic panoramas of Ardabil city, Iran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
